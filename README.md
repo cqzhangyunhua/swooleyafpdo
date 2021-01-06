@@ -19,7 +19,7 @@ application/Bootstrap.php  #入口Bootstrap
 ## 一、项目创建说明
 ### 项目创建
 ``` 
- composer create-project yafbase  --repository=http://packagist.i.cacf.cn/ --no-secure-http
+ composer create-project yafbase  --repository=http://xxx.i.xxx.cn/ --no-secure-http
 
 ```
 ### Composer 常用帮助：
@@ -73,7 +73,7 @@ server {
 {
         "repositories": [{
                 "type": "composer",
-                "url": "http://packagist.i.cacf.cn/"
+                "url": "http://xxx.i.xxx.cn/"
         }],
         "config": {
                 "secure-http": false
