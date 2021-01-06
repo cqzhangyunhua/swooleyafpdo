@@ -1,0 +1,12 @@
+{
+    "config":{"secure-http":false},
+    "minimum-stability": "stable",
+    "repositories": [{
+        "type": "composer",
+        "url": "http://packagist.i.cacf.cn"
+      }]
+	  ,
+    "require": {      
+        "transformers/es": "0.2"
+    }
+}
