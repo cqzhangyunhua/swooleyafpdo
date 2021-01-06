@@ -67,7 +67,7 @@ server {
 
 ```     http://127.0.0.1/v1/test/index?q=xx ```
 
-### 镜像地址: http://packagist.i.cacf.cn/
+### 镜像地址: http://xxx.i.xxx.cn/
 ### ~~composer.json的配置~~
 ```
 {
